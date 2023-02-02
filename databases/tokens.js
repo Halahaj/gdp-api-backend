@@ -1,0 +1,2 @@
+authDatabase=[];
+module.exports = authDatabase;

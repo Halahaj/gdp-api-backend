@@ -1,0 +1,2 @@
+usersDatabase=[];
+module.exports = usersDatabase;
